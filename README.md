@@ -44,3 +44,7 @@ User experience (UX) designers focus on the interaction that users have with pro
 ## Scale and proportion in mockups
 ![image](https://github.com/Shodydosh/Google-UX-Design/assets/87895460/11ef4806-da2e-4a3e-b0d0-1d6f9a960782)
 
+## Unity and variety in mockups
+![image](https://github.com/Shodydosh/Google-UX-Design/assets/87895460/ee765ed2-fd85-4b4b-a219-e33a4fdbc35f)
+
+
