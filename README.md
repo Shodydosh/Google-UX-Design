@@ -55,4 +55,9 @@ User experience (UX) designers focus on the interaction that users have with pro
 - [AirBnb's Design System](https://airbnb.design/building-a-visual-language/)
 - [U.S. Web Design System](https://designsystem.digital.gov/)
 
-
+## Design Critique Sessions
+- Who are you designing for? 
+- What problem are you trying to solve?
+- How are your designs solving or not solving those problems?
+- Where in the design process are you?
+- What aspects of your designs are you seeking feedback on?
