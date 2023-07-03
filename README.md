@@ -4,3 +4,9 @@ User experience (UX) designers focus on the interaction that users have with pro
 
 [Gestalt Principles](https://www.superside.com/blog/gestalt-principles-of-design) in wireframes
 
+## Accessibility considerations for color
+- Use icons in designs.
+- Use patterns and texture to create contrast.
+- Avoid color combinations that could be hard to distinguish.
+## Low contrast sensitivity
+![image](https://github.com/Shodydosh/Google-UX-Design/assets/87895460/5a28b415-9d2d-42aa-8a58-5adf24ab2f03)
