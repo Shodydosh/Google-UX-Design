@@ -19,3 +19,9 @@ User experience (UX) designers focus on the interaction that users have with pro
 ## Find stock images for mockups
 - [Unsplash](https://unsplash.com/) : Search and download free, high-resolution images.
 - [Blush](https://blush.design/) : Create and customize free illustrations by artists from all over the world. You can install the plugin or create your own doodle.
+## Use negative (white) space in layouts
+### The importance of white space
+- Provide emphasis on a focal point within the design
+- Group items together, which is also known as proximity
+- Help with readability
+
