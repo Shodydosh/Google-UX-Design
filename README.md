@@ -40,3 +40,7 @@ User experience (UX) designers focus on the interaction that users have with pro
 - [Golden Tips and Examples to Create Visual Hierarchy in Website Design](https://www.mockplus.com/blog/post/ui-visual-hierarchy)
 - [What is Visual Hierarchy?](https://www.interaction-design.org/literature/topics/visual-hierarchy)
 - [A is for Accessibility — 12 top tips for designing an inclusive user experience](https://uxdesign.cc/the-a-to-z-of-ux-a-is-for-accessibility-12-top-tips-for-designing-an-inclusive-user-experience-667eedaf5bca)
+
+## Scale and proportion in mockups
+![image](https://github.com/Shodydosh/Google-UX-Design/assets/87895460/11ef4806-da2e-4a3e-b0d0-1d6f9a960782)
+
