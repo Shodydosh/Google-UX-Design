@@ -47,4 +47,12 @@ User experience (UX) designers focus on the interaction that users have with pro
 ## Unity and variety in mockups
 ![image](https://github.com/Shodydosh/Google-UX-Design/assets/87895460/ee765ed2-fd85-4b4b-a219-e33a4fdbc35f)
 
+## Popular design systems
+- [Google’s Material Design](https://m2.material.io/resources)
+- [Shopify’s Design System Polaris](https://polaris.shopify.com/)
+- [Apple Human Interface Guidelines](https://developer.apple.com/design/)
+- [Microsoft Fluent Design System](https://fluent2.microsoft.design/)
+- [AirBnb's Design System](https://airbnb.design/building-a-visual-language/)
+- [U.S. Web Design System](https://designsystem.digital.gov/)
+
 
