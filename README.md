@@ -61,3 +61,17 @@ User experience (UX) designers focus on the interaction that users have with pro
 - How are your designs solving or not solving those problems?
 - Where in the design process are you?
 - What aspects of your designs are you seeking feedback on?
+
+## Common website structures
+- Hierarchical model
+  - A top down approach to structure that starts with broader categories of information (parent) that narrows in to more detailed information (child).
+  - ~ family tree
+- Sequential model
+  - A website structure that leads users through a step-by-step process
+- Matrix model
+  - Allows users to follow their own path, since content is linked in several ways
+- Database model
+  - A website structure that mixes a database, or an organized collection of information, with search functionality.
+
+## Sitemap example
+![image](https://github.com/Shodydosh/Google-UX-Design/assets/87895460/35e09e2f-e097-49a5-b45b-ce2a62ba2f25)
